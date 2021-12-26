@@ -13,7 +13,6 @@
 0.0.0.0 rr5---sn-cvh76nek.googlevideo.com
 0.0.0.0 rr5---sn-cvh76nle.googlevideo.com
 0.0.0.0 rr5---sn-5jucgv5qc5oq-cagz.googlevideo.com
-0.0.0.0 rr5---sn-5jucgv5qc5oq-cag6.googlevideo.com
 0.0.0.0 rr5---sn-5jucgv5qc5oq-cagk.googlevideo.com
 0.0.0.0 rr5---sn-gwpa-cagl.googlevideo.com
 0.0.0.0 rr5---sn-cvh76ned.googlevideo.com
@@ -23,3 +22,7 @@
 0.0.0.0 rr5---sn-cvh76nek.googlevideo.com
 0.0.0.0 rr5---sn-cvh7knzd.googlevideo.com
 0.0.0.0 rr1---sn-cvh76nl7.googlevideo.com
+0.0.0.0 rr4---sn-5jucgv5qc5oq-cagd.googlevideo.com
+0.0.0.0 rr2---sn-npoe7ner.googlevideo.com
+0.0.0.0 rr2---sn-cvh7knes.googlevideo.com
+0.0.0.0 rr5---sn-npoldn7e.googlevideo.com
